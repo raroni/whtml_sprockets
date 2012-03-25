@@ -17,7 +17,7 @@ module WHTMLSprockets
     end
 
     def self.default_namespace
-      'this.Wingman.View.template_sources'
+      'this.Wingman.View.templateSources'
     end
 
     def prepare
