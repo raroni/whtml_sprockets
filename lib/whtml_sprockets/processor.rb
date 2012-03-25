@@ -1,5 +1,3 @@
-puts "yeah processor"
-
 module WHTMLSprockets
   class Processor < Tilt::Template
     JS_ESCAPE_MAP = {
