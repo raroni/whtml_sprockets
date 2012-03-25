@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name            = "whtml_sprockets"
-  s.version         = "0.0.2"
+  s.version         = "0.0.3"
   s.authors         = "Rasmus Rønn Nielsen"
   s.email           = "rasmusrnielsen@gmail.com"
   s.homepage        = "http://rrn.dk"
